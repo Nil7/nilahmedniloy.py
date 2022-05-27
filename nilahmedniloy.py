@@ -427,9 +427,9 @@ class Main:
 		NILOY =input(" Choose : ")
 		if NILOY in ["1", "01"]:
 			File()
-		if NIL AHMED NILOY in ["2", "02"]:
+		if NIL in ["2", "02"]:
 			Public()
-		if NIL AHMED NILOY in ["3", "03"]:
+		if NIL in ["3", "03"]:
 			os.system("python Dump.py")
 		if NILOY in ["4", "04"]:
 			self.old()
